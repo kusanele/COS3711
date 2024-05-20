@@ -1,0 +1,58 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "Final_q4a1_autogen::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "Final_q4a1_autogen",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/MarbleKunaneleMpofu/OneDrive - SINGLE POINT OF TRUTH (PTY) LTD/Desktop/COS3711/Final_q4a1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/Final_q4a1_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/MarbleKunaneleMpofu/OneDrive - SINGLE POINT OF TRUTH (PTY) LTD/Desktop/COS3711/Final_q4a1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/Final_q4a1_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

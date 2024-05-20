@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-def3038c0f3922f9bec6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Q2A1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Q2A1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q2A1-Debug-ec3a37f6c393818d94e9.json",
+					"name" : "Q2A1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Q2A1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q2A1_autogen-Debug-cd602a0a111a3e302e31.json",
+					"name" : "Q2A1_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/MarbleKunaneleMpofu/OneDrive - SINGLE POINT OF TRUTH (PTY) LTD/Desktop/COS3711/Q2A1/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/MarbleKunaneleMpofu/OneDrive - SINGLE POINT OF TRUTH (PTY) LTD/Desktop/COS3711/Q2A1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

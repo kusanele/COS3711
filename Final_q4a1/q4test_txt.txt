@@ -1,0 +1,13 @@
+
+| Customer ID | Name              | Age | Email                        | Address                             | Phone          |
+|-------------|-------------------|-----|------------------------------|-------------------------------------|----------------|
+| 1001        | John Smith        | 35  | john.smith@example.com       | 123 Main St, Anytown, USA   	     | 555-123-4567   |
+| 1002        | Emily Johnson     | 28  | emily.johnson@example.com    | 456 Elm St, Smallville, USA         | 555-987-6543   |
+| 1003        | Michael Brown     | 42  | michael.brown@example.com    | 789 Oak St, Big City, USA           | 555-789-0123   |
+| 1004        | Sarah Williams    | 31  | sarah.williams@example.com   | 101 Pine St, Suburbia, USA          | 555-234-5678   |
+| 1005        | David Miller      | 45  | david.miller@example.com     | 246 Maple St, Countryside, USA      | 555-876-5432   |
+| 1006        | Jessica Davis     | 29  | jessica.davis@example.com    | 369 Cedar St, Townsville, USA       | 555-321-6789   |
+| 1007        | Robert Wilson     | 38  | robert.wilson@example.com    | 852 Walnut St, Metropolis, USA      | 555-654-3210   |
+| 1008        | Lisa Taylor       | 27  | lisa.taylor@example.com      | 753 Birch St, Hamlet, USA           | 555-012-3456   |
+| 1009        | Christopher Garcia| 33  | christopher.garcia@exam.com  | 159 Spruce St, Seaside, USA         | 555-345-6789   |
+| 1010        | Amanda Martinez   | 30  | amanda.martinez@example.com  | 963 Ash St, Riverside, USA          | 555-678-9012   |
